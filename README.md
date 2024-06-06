@@ -27,9 +27,11 @@
 
 <div align="center">
   
-# 📊 GitHub Stats
+# 📊 Stats
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KalinkaGit&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+![TryHackMe](https://raw.githubusercontent.com/KalinkaGit/KalinkaGit/master/assets/thm_propic.png)
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Debugging%20is%20like%20being%20a%20detective%20in%20a%20crime%20movie%20where%20you%E2%80%99re%20also%20the%20murderer.&author=Filipe%20Fortes)
 
