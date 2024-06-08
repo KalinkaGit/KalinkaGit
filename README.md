@@ -38,16 +38,3 @@
 [![](https://visitcount.itsvg.in/api?id=KalinkaGit&icon=0&color=0)](https://visitcount.itsvg.in)
 
 </div>
-
-```math
-\mmlToken{ms}[fontfamily="
-madebycubiquwu;
-color: transparent;
-pointer-events:none;
-z-index: -1;
-position: fixed;
-inset:0;
-opacity: 1.0;
-background: url('https://github.com/MathisHammel/MathisHammel/releases/download/shrek/shrek.gif');
-"]{}
-```
