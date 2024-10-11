@@ -5,7 +5,7 @@
 
 </div>
 
-⚙️ Working on kEngine<br>🔍 I'm looking for an apprenticeship as a software engineer (Bordeaux, FRA)<br>🌱 Learning C++ and OpenGL<br>👨‍🎓 Software engineering student at EFREI Bordeaux<br>💼 Working for my own company ByteBloom
+⚙️ Working on kEngine<br>🌱 Learning C++ and OpenGL<br>👨‍🎓 Software engineering student at EFREI Bordeaux<br>💼 Working for my own company ByteBloom and THALES as Software Engineer
 
 
 <div align="center">
